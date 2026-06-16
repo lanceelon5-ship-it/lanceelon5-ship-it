@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚖️ Kia Ora! I'm Jason Zhang (Jiahao Ren) 📊
+# ⚖️ Kia Ora! I'm Jason Zhang  📊
 
 ### Law & Accounting Student | Academic Researcher based in New Zealand 🇳🇿
 
