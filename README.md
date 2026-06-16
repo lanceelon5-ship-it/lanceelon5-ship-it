@@ -1,39 +1,60 @@
-# Kia Ora! I'm Jason Zhang 👋
+<div align="center">
 
-### 📊 Law & Accounting Student based in New Zealand 🇳🇿
+# ⚖️ Kia Ora! I'm Jason Zhang (Jiahao Ren) 📊
 
-I am an academic researcher and student specializing in the intersection of **New Zealand Commercial Law** and **Management & Financial Accounting**. I apply rigorous quantitative variance analysis alongside structured qualitative legal methodologies (IRAC) to solve complex institutional and corporate challenges.
+### Law & Accounting Student | Academic Researcher based in New Zealand 🇳🇿
 
----
-
-## 🛠️ Core Expertise
-
-- **Legal Analysis & Research:** Proficient in the NZ statutory framework (Companies Act 1993, CCLA 2017) and case law navigation using **LexisNexis** and **Westlaw**.
-- **Financial & Management Accounting:** Skilled in standard costing, variance analysis (materials, labor, and efficiency), and corporate financial reporting.
-- **Methodology:** Strict adherence to the **IRAC** (Issue, Rule, Analysis, Conclusion) framework for legal problem-solving.
+<p align="center">
+  <a href="mailto:lanceelon5@gmail.com"><img src="https://img.shields.io/badge/Email-lanceelon5%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Location-Hamilton%2C%20NZ-orange?style=flat-square&logo=googlemaps" alt="Location">
+</p>
 
 ---
 
-## 📂 Highlighted Projects & Academic Focus
+暗色模式下体验更佳 🌙
+</div>
 
-### ⚖️ Legal Research & Case Studies
-- **Corporate Personality & Contract Formation:** Analyzed landmark precedents including *Salomon v Salomon*, *Lee v Lee’s Air Farming Ltd*, and *Welsh v Gatchell*.
-- **Common Law Rule Drafting:** Extracted and formalized structured rule statements from historical foundational cases like *Lampleigh v Braithwaite*.
+## 🛠️ Expertise & Tech Stack
 
-### 📈 Financial & Data Analysis
-- **Whangaratta Ltd | Variance Analysis Project:** Conducted a comprehensive professional review and modification of material price, labor, and efficiency variances for corporate performance evaluation.
+### 👨‍⚖️ Legal Studies & Research
+<!-- 使用 Shields.io 制作的高级技能标签 -->
+![](https://img.shields.io/badge/NZ_Statutes-Companies_Act_1993-blue?style=for-the-badge)
+![](https://img.shields.io/badge/NZ_Statutes-CCLA_2017-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Methodology-IRAC_Framework-purple?style=for-the-badge)
+![](https://img.shields.io/badge/Databases-LexisNexis_%26_Westlaw-crimson?style=for-the-badge)
+
+### 📈 Accounting & Analytics
+![](https://img.shields.io/badge/Management_Accounting-Standard_Costing-green?style=for-the-badge)
+![](https://img.shields.io/badge/Analysis-Variance_Analysis-green?style=for-the-badge)
+![](https://img.shields.io/badge/Tools-Excel_🧩-darkgreen?style=for-the-badge)
 
 ---
 
-## 🚀 Research Interests
+## 📂 Highlighted Projects
 
-Currently exploring opportunities in:
-- **ACC Legislation & Disputed Causation:** Investigating structural barriers, medical evidence weight, and access to justice under the Accident Compensation Act 2001.
-- **Policy & Resource Management:** Evaluating local government frameworks and compliance.
+### ⚖️ Commercial Law & Precedents
+*   **Corporate Personality Analysis:** Deep dive into foundational legal precedents including *Salomon v Salomon*, *Lee v Lee’s Air Farming Ltd*, and *Welsh v Gatchell*.
+*   **Common Law Rule Generation:** Structuring case law principles (e.g., *Lampleigh v Braithwaite*) into actionable legal rules.
+
+### 📊 Corporate Performance Evaluation
+*   **Whangaratta Ltd Project:** Conducted full-scale managerial review and adjustments for materials, labor, and efficiency variances.
 
 ---
 
-## 📬 Connect with Me
+## 📊 My GitHub Stats
 
-- 📧 **Email:** lanceelon5@gmail.com
-- 📍 **Location:** Hamilton, New Zealand
+<div align="center">
+  <!-- 动态生成的 GitHub 统计卡片（使用透明背景，完美适配 GitHub 暗色/亮色模式） -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Giggitycountless&show_icons=true&theme=transparent&hide_border=true&title_color=007acc&icon_color=007acc&text_color=888888" alt="Jason's GitHub Stats" />
+  
+  <br/>
+  
+  <!-- 动态生成的语言贡献连续卡片 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giggitycountless&layout=compact&theme=transparent&hide_border=true&title_color=007acc&text_color=888888" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  "Rigorous logic in law, precise calculation in accounting."
+</div>
